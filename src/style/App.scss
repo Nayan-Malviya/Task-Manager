@@ -1,0 +1,31 @@
+body {
+    background-image:url("https://img.freepik.com/premium-photo/future-is-now_360074-14007.jpg?w=740");
+    background-size: cover;
+    font-family: sans-serif;
+}
+nav {
+    background-color: #dbedf9;
+    background-image:url("https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=1380&t=st=1685948180~exp=1685948780~hmac=7132c2ea3325978d796fc07e3864df967247134d0768711242d8067625cf26f1");
+}
+footer{
+    background-image:url("https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=1380&t=st=1685948180~exp=1685948780~hmac=7132c2ea3325978d796fc07e3864df967247134d0768711242d8067625cf26f1");
+}
+.round {
+    border-radius: 5px;
+}
+.flex{
+float: right;
+}
+.widthmanager{
+    max-width: 40vw
+}
+
+.checkbox-lg .form-check-input{
+
+    scale: 1.4;
+
+    }
+   .checkbox-xl .form-check-input {
+    
+    scale: 1.8;    }
+   
